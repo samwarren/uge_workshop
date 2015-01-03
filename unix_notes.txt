@@ -1,4 +1,6 @@
-    1  sublime
+    hidden files and folders begin with a dot  
+
+    sublime
     2  subl
     3  pwd
     4  ls
