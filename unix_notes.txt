@@ -1,0 +1,31 @@
+    1  sublime
+    2  subl
+    3  pwd
+    4  ls
+    5  ls -l
+    6  cd Documents
+    7  ls
+    8  cd college
+    9  ls
+   10  ..
+   11  cd ..
+   12  cd ..
+   13  cd documents
+   14  ls
+   15  cd philosophy
+   16  ../poems
+   17  ls
+   18  ../cd philosophy
+   19  ..
+   20  cd ..
+   21  cd philosophy
+   22  cd ../poems
+   23  cd /c/users/samw
+   24  ls -l
+   25  cd ../..
+   26  cd
+   27  ls
+   28  history
+   29  history | less
+   30  pwd
+   31  history > moving_around.txt
