@@ -1,0 +1,91 @@
+    1  sublime
+
+    check out notes on word doc
+    2  subl
+    3  pwd
+    4  ls
+    5  ls -l
+    6  cd Documents
+    7  ls
+    8  cd college
+    9  ls
+   10  ..
+   11  cd ..
+   12  cd ..
+   13  cd documents
+   14  ls
+   15  cd philosophy
+   16  ../poems
+   17  ls
+   18  ../cd philosophy
+   19  ..
+   20  cd ..
+   21  cd philosophy
+   22  cd ../poems
+   23  cd /c/users/samw
+   24  ls -l
+   25  cd ../..
+   26  cd
+   27  ls
+   28  history
+   29  history | less
+   30  pwd
+   31  history > moving_around.txt
+   32  ls
+   33  ls -t
+   34  subl moving_around.txt
+   35  subl movingaround.txt
+   36  subl moving_around.txt
+   37  mkdir uge_workshop
+   38  pwd
+   39  ls
+   40  mv moving_around uge_workshop/
+   41  mv moving_around.txt uge_workshop/
+   42  cd uge_workshop
+   43  ls
+   44  mov moving_around.txt unix_notes.txt
+   45  mv moving_around.txt unix_notes.txt
+   46  ls
+   47  subl unix_notes.txt
+   48  which git
+   49  git config --global user.name "Sam Warren"
+   50  git config --global user.email "samuel.l.warren@gmail.com"
+   51  git commit
+   52  git config -l 
+   53  git init
+   54  git status
+   55  git add unix_notes.txt
+   56  git status
+   57  git commit -m "adding unix notes"
+   58  git status
+   59  git log
+   60  ls -l
+   61  mkdir .hidden
+   62  ls
+   63  ls -a
+   64  rmdir .hidden
+   65  subl unix_notes.txt
+   66  git status
+   67  git add 
+   68  git add unix_notes.txt
+   69  git status
+   70  git commit -m "added note about hidden directories"
+   71  gitt diff --staged
+   72  gitt dif --staged
+   73  git diff --staged
+   74  git status
+   75  git log
+   76  git branch git-notes
+   77  git branch
+   78  git checkout git-notes
+   79  touch git_notes.txt
+   80  ls -l
+   81  sublime git-notes
+   82  subl git-notes
+   83  history >> git_notes.txt
+   84  subl git-notes
+   85  history >> git_notes
+   86  subl git-notes
+   87  subl git-notes.txt
+   88  git add git-notes.txt
+   89  history >> git-notes
